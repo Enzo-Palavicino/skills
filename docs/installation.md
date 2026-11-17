@@ -1,6 +1,6 @@
 # Installation
 
-Check the [catalog](../README.md) for a ready skill. The steps below apply to a skill whose folder already contains a complete `SKILL.md`.
+Check the [catalog](../README.md) for an available skill. The steps below apply to a skill whose folder already contains a complete `SKILL.md`.
 
 From the checkout's root directory, replace `<name>` with the skill directory name. Copy the entire directory so its supporting files stay available. Choose the destination for your tool and check that it does not already contain a folder or symbolic link with that name.
 

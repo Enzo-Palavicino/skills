@@ -4,7 +4,7 @@ Reusable Agent Skills for code review and collaborative software development in 
 
 | Skill | Purpose | Status |
 | --- | --- | --- |
-| [`review-pr`](skills/review-pr/) | Review a pull request and draft a review backed by evidence. | Planned |
+| [`review-pr`](skills/review-pr/) | Review a pull request and optionally submit the authorized review. | Preview |
 | [`team-workflow`](skills/team-workflow/) | Coordinate project planning, implementation, review, and closeout. | Planned |
 
 Each skill lives in its own directory under `skills/`. A skill is ready to install when its directory contains a complete `SKILL.md` that follows the [Agent Skills specification](https://agentskills.io/specification).
