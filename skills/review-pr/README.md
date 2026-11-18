@@ -27,4 +27,4 @@ The skill recommends `APPROVE` or `REQUEST_CHANGES` based on verified defects. I
 
 ## Validation
 
-The [validation scenarios](tests/scenarios.md) use simulated GitHub data. Publishing in a real project requires validation against its environment and permissions.
+The maintainer reports successful use of this skill in real projects. The [validation scenarios](tests/scenarios.md) also cover simulated GitHub data, including authorization, changed revisions, and recovery after uncertain publication results.

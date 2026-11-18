@@ -8,10 +8,10 @@ Reusable Agent Skills for Codex and Claude Code, maintained by Enzo Palavicino. 
 
 | Skill | Purpose | Availability |
 | --- | --- | --- |
-| [review-pr](skills/review-pr/README.md) | Inspect a PR, its diff and CI, then draft a verdict and submit the review after authorization. | Preview |
-| [team-workflow](skills/team-workflow/README.md) | Connect planning, Trello cards, GitHub issues, branches, PRs, and closeout. | Preview |
+| [review-pr](skills/review-pr/README.md) | Inspect a PR, its diff and CI, then draft a verdict and submit the review after authorization. | Functional |
+| [team-workflow](skills/team-workflow/README.md) | Connect planning, Trello cards, GitHub issues, branches, PRs, and closeout. | Functional |
 
-Both skills have usable instructions. Preview indicates that project-specific behavior still needs validation in your environment. The Team Workflow walkthrough was tested with a private GitHub repository and a Trello board. Its test project had no CI checks. Review PR has been checked with simulated scenarios.
+Both skills are functional. The maintainer reports successful use of Review PR and Team Workflow in real projects. Additional validation includes simulated scenarios and a Team Workflow walkthrough with a private GitHub repository and a Trello board. That walkthrough's test project had no CI checks.
 
 ## Install and use
 

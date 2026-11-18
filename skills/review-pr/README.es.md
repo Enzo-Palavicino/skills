@@ -27,4 +27,4 @@ La skill recomienda `APPROVE` o `REQUEST_CHANGES` según los defectos verificado
 
 ## Validación
 
-Los [escenarios de validación](tests/scenarios.md) utilizan datos simulados de GitHub. La publicación en un PR real de tu proyecto requiere validación en su entorno y con sus permisos.
+El mantenedor confirma el uso satisfactorio de esta skill en proyectos reales. Los [escenarios de validación](tests/scenarios.md) también cubren datos simulados de GitHub, incluidas la autorización, las revisiones modificadas y la recuperación ante resultados inciertos de publicación.
