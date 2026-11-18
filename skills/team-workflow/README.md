@@ -56,4 +56,4 @@ Discovery, planning, and status reporting are read-only by default. The skill pr
 
 The skill confirms remote changes before reporting success and gives links to the affected records. When access is missing or an operation partially succeeds, it reports what happened and which step remains pending.
 
-See [the validation scenarios](tests/scenarios.md) for simulated projects and recovery cases.
+The maintainer reports successful use of this skill in real projects. Additional validation includes a live GitHub and Trello walkthrough. See [the validation scenarios](tests/scenarios.md) for simulated projects and recovery cases.

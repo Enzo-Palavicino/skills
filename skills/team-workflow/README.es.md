@@ -56,4 +56,4 @@ El descubrimiento, la planificación y los informes de estado son de lectura por
 
 La skill confirma los cambios remotos antes de informar que se realizaron y entrega enlaces a los registros afectados. Cuando falta acceso o una operación se completa parcialmente, informa el resultado y el paso pendiente.
 
-Consulta los [escenarios de validación](tests/scenarios.md) para revisar casos simulados y recuperación de operaciones interrumpidas.
+El mantenedor confirma el uso satisfactorio de esta skill en proyectos reales. La validación adicional incluye un recorrido con GitHub y Trello reales. Consulta los [escenarios de validación](tests/scenarios.md) para revisar casos simulados y recuperación de operaciones interrumpidas.
